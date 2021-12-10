@@ -9,7 +9,7 @@ function Product({img,title}) {
                 <p className="p-title">{title}</p>
             </div>
             <div className="p-img">
-                <img src={img} className="pimg"/>
+                <img src={img} className="pimg" alt=""/>
             </div>
         </div>
     )

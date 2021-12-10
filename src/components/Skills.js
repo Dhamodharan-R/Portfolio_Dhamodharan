@@ -21,7 +21,7 @@ function Skills() {
                 </div>
             </div>
             <div className="s-right">
-            { <img src={skill}  alt=""  className="s-img"/> }
+            { <img src={skill}  alt=""  className="s-img" /> }
             </div>
         </div>
     )
