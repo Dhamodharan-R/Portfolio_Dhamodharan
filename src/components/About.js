@@ -5,7 +5,7 @@ import about from "../img/about.jpg"
 
 function About() {
     return (
-        <div className="a">
+        <div className="a" id="abc">
             <div className="a-left">
                 <div className="a-card">
                 { <img src={about}  alt=""  className="a-img"/> }

@@ -3,7 +3,7 @@ import "./skills.css"
 import skill from "../img/web.jpg"
 function Skills() {
     return (
-        <div className="s">
+        <div className="s" id="skills">
             <div className="s-left">
                 <div className="s-left-wrapper">
                     <h1>Skills</h1>

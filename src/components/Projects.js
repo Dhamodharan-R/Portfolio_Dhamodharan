@@ -6,7 +6,7 @@ import React from 'react'
 
 function Projects() {
     return (
-        <div className="pl">
+        <div className="pl" id="pl">
             <div className="pl-texts">
                 <h1 className="pl-title">Projects</h1>
             </div>

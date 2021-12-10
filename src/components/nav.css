@@ -1,0 +1,18 @@
+.navBar{
+    background-color:forestgreen;
+    
+    height: 50px;
+    position: sticky  ;
+    top: 0;
+}
+.uln{
+    display: flex;
+    /* padding: 15px; */
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.n{
+    list-style-type: none;
+    color: white;
+}

@@ -26,7 +26,7 @@ function Contact() {
 
     }
     return (
-        <div className="c">
+        <div className="c" id="c">
             <div className="c-bg"></div>
             <div className="c-wrapper">
                 <div className="c-left">
