@@ -7,7 +7,7 @@ export const data=[
 {
     id:2,
     title:"Responsive Portfolio",
-    img:"https://cementproductsapi.s3.ap-south-1.amazonaws.com/chettinad-cement+opc-500x500.jpg",
+    img:"https://cementproductsapi.s3.ap-south-1.amazonaws.com/screencapture-dhamodharan-portfolio-netlify-app-2021-12-12-14_52_27.png",
 },
 {
     id:3,
