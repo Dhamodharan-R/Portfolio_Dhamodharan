@@ -2,7 +2,7 @@ export const data=[
     {
     id:1,
     title:"Content Management System",
-    img:"https://cementproductsapi.s3.ap-south-1.amazonaws.com/ramco-supercreate-cement-500x500.jpg",
+    img:"https://cementproductsapi.s3.ap-south-1.amazonaws.com/cms-content-management-system-website-vector-8310450.jpg",
 },
 {
     id:2,
